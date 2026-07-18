@@ -42,7 +42,7 @@ mkdir -p /storage/emulated/0/Music/YouTube
 echo -e "${GREEN}✅ Directories created!${RESET}"
 
 echo -e "${BLUE}⬇️  Downloading YTDL script...${RESET}"
-curl -s -o /storage/emulated/0/Download/ytdl.py https://raw.githubusercontent.com/yourusername/ytdl/main/ytdl.py
+curl -s -o /storage/emulated/0/Download/ytdl.py https://github.com/KumpelZiege/ytdl.git
 echo -e "${GREEN}✅ Script downloaded!${RESET}"
 
 echo -e "${BLUE}🔧 Creating ytdl command...${RESET}"
